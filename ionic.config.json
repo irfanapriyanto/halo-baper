@@ -1,0 +1,8 @@
+{
+  "name": "halo-baper",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "8d8cdaac"
+}
